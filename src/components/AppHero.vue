@@ -1,6 +1,6 @@
 <script>
 export default {
-    nsmr: 'AppHero',
+    name: 'AppHero',
 }
 </script>
 
