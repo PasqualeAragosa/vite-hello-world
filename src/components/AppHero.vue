@@ -1,4 +1,8 @@
-<script></script>
+<script>
+export default {
+    name: "AppHero",
+}
+</script>
 
 <template>
     <div class="jumbotron">
@@ -8,7 +12,7 @@
 </template>
 
 <style>
-    img {
-        max-width: 100%;
-    }
+img {
+    max-width: 100%;
+}
 </style>
