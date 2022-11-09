@@ -5,9 +5,5 @@ export default {
 </script>
 
 <template>
-    <h1>La mia prima app Vite!</h1>
+    <h1>La mia prima App Vite!</h1>
 </template>
-
-<style>
-
-</style>

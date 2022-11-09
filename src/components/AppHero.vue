@@ -6,13 +6,7 @@ export default {
 
 <template>
     <div class="jumbotron">
-        <img src="../assets/img/download.jpeg" alt="">
+        <img src="../assets/vue.svg" alt="">
     </div>
     <!-- /.jumbotron -->
 </template>
-
-<style>
-img {
-    max-width: 100%;
-}
-</style>
