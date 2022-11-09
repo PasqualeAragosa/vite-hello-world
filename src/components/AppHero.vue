@@ -1,12 +1,12 @@
 <script>
 export default {
-    name: "AppHero",
+    nsmr: 'AppHero',
 }
 </script>
 
 <template>
     <div class="jumbotron">
-        <img src="../assets/vue.svg" alt="">
+        <img src="../assets/img/vue-vite.png" alt="">
     </div>
     <!-- /.jumbotron -->
 </template>
